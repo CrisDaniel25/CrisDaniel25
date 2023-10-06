@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cristopher Figueroa
 ===========================================================================================================================================
 
-Full Stack Developer
+Application Developer
 --------------------
 
-I am a technology lover who plays the role of a software developer specialized in Full Stack Development in environments such as .Net Framework, .Net Core, Node Js and the frameworks made up of the Javascript language in which I focus and have more experience in Angular. Graduated in software development technology from ITLA and technician specialized in digital electronics and microcomputing
+Dedicated and adaptable Software Developer with 4 years of experience. A problem-solver who is skilled in analyzing and resolving complex technical issues. Able to quickly learn new technologies and frameworks to deliver high-quality software solutions. Committed to collaborating with cross-functional teams to meet project deadlines and exceed client expectations.
 
 * ✉️  You can contact me at [cristopherdanielfigueroa@gmail.com](mailto:cristopherdanielfigueroa@gmail.com)
 
