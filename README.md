@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Application Developer
 --------------------
 
-Dedicated and adaptable Software Developer with 4 years of experience. A problem-solver who is skilled in analyzing and resolving complex technical issues. Able to quickly learn new technologies and frameworks to deliver high-quality software solutions. Committed to collaborating with cross-functional teams to meet project deadlines and exceed client expectations.
+Dedicated and adaptable Software Developer with over 6 years of experience. A problem-solver who is skilled in analyzing and resolving complex technical issues. Able to quickly learn new technologies and frameworks to deliver high-quality software solutions. Committed to collaborating with cross-functional teams to meet project deadlines and exceed client expectations.
 
 * ✉️  You can contact me at [cristopherdanielfigueroa@gmail.com](mailto:cristopherdanielfigueroa@gmail.com)
 
