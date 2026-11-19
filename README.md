@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://cristopherfigueroa.netlify.app">Portfolio</a> ·
+  <a href="https://cristopher-figueroa-portfolio.netlify.app">Portfolio / Portafolio</a> ·
+  <a href="https://cristopher-figueroa-portfolio.netlify.app/demos">Interactive labs</a> ·
   <a href="https://www.linkedin.com/in/crisdaniel25/">LinkedIn</a> ·
   <a href="mailto:cristopherdanielfigueroa@gmail.com">Email</a>
 </p>
@@ -28,6 +29,7 @@ Most recent delivery work is in client-owned systems, so I keep names, code, dat
 - **Business platforms:** built operational workflows, dashboards, reporting, permissions, notifications, and multi-tenant administration.
 - **Identity integrations:** implemented federated sign-in flows with OIDC and PKCE, token validation, user provisioning, and role-based access.
 - **Reliable processing:** designed background and real-time processing flows with persistence, retries, cancellation, and operational visibility.
+- **Interactive portfolio labs:** five browser-only simulations for onboarding validation, RBAC, OAuth 2.0 + PKCE, background jobs, and REST APIs. They use fictional sample data and do not connect to a production backend.
 - **Public demo in progress:** [Dynamic Forms Platform](https://github.com/CrisDaniel25/dynamic-forms-platform) — a personal Angular/Strapi/PostgreSQL/Docker project. It is an early scaffold and is being developed into a runnable demo.
 
 ## Core technologies
